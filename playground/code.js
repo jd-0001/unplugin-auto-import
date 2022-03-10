@@ -1,0 +1,1 @@
+export const codeDemoAlertBasic = `const a = 1`
